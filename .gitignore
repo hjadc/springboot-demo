@@ -1,0 +1,8 @@
+*.war
+*.ear
+*.iml
+*.class
+.idea/
+.svn/
+target/
+grunt/node_modules
