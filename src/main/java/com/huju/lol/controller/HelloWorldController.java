@@ -17,7 +17,7 @@ public class HelloWorldController {
 
     @RequestMapping("/hello")
     public String index(){
-        return "Spring Boot Hello World!";
+        return "Spring Boot Hello World,哈哈哈哈哈!";
     }
 
     @RequestMapping(value = "/", method = RequestMethod.POST)
